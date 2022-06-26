@@ -10,7 +10,7 @@ panic: file does not exist
 
 goroutine 1 [running]:
 main.main()
-        /home/pekka/ghub/archiverbug/main.go:32 +0x87
+        main.go:32 +0x87
 ```
 
 ```shell
